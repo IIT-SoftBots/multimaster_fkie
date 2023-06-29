@@ -72,6 +72,6 @@
     <param name="check_host" value="True" />
   </node>
 
-  <node pkg="fkie_master_discovery" type="shutdown_vpn.sh" name="shutdown_vpn" output="screen" />
+  <!-- <node pkg="fkie_master_discovery" type="shutdown_vpn.sh" name="shutdown_vpn" output="screen" /> -->
 
 </launch>
